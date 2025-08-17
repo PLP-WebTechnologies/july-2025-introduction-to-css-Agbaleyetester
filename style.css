@@ -1,0 +1,64 @@
+/* Styling of the header */
+*{
+    background: #f2f2f2;
+}
+
+/* Head stylinmg */
+.head{
+    background: #f2f2f2;
+    color: #008751;
+    text-align: center;
+    padding:2px;
+}
+
+/* link styling */
+a:link{
+      color: #008751;
+      text-decoration: none;
+      margin-left: 20px;
+      background: #f2f2f2;
+      transition: color 0.2s ease-in-out ;
+}
+
+/* Link hover styling */
+a:hover{
+    color: black;
+    font-weight: bold;
+}
+
+/* Sub-header styling */
+.sub-head{
+    background:#f2f2f2;
+    color: #008751;
+}
+
+/* Author text styling */
+#author{
+    font-style: italic;
+    color: #008751;
+}
+
+/* Image styling */
+img{
+    width: 30%;
+    height: auto;
+    filter: grayscale(20%);
+}
+
+
+h2, h3{
+    color: #008751;
+}
+
+/* Paragraph styling */
+p{
+    color:black;
+    background: #f2f2f2;
+}
+
+/* learn more styling  */
+.learn{
+    font-style: italic;
+    color:grey;
+    text-decoration-style: solid;
+}
